@@ -2,8 +2,8 @@
 # Objective
 We have to do the following two tasks:
 
-#Task 1:
-Fetch given page for a random number of files from a particular year.
+# Task 1:
+- Fetch given page for a random number of files from a particular year.
 Zip the randomly selected files to your work directory.
 Delete unnecessary csv files and the html file.
 Task 2:
