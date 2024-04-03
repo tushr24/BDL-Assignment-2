@@ -7,7 +7,7 @@ We have to do the following two tasks:
   - Zip the randomly selected files to your work directory.
   - Delete unnecessary csv files and the html file.
  
--Task 2:
+- Task 2:
   - Unzip the file from task 1.
   - Calculate the monthly averages of Hourly data present in the csv files.
   - Using geopandas to visulise the calculated monthly averages of three fields.
